@@ -1,9 +1,0 @@
-:root {
-  --vc-icn-width: 1.2em;
-}
-
-.carousel__icon {
-  fill: currentColor;
-  height: var(--vc-icn-width);
-  width: var(--vc-icn-width);
-}

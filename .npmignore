@@ -1,9 +1,0 @@
-node_modules
-scripts
-src
-docs
-demo
-scripts
-.*
-coverage
-.gitignore
